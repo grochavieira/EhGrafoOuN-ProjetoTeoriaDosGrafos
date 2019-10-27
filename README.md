@@ -1,1 +1,1 @@
-# É Grafo ou Não?
+# Propriedade dos Grafos
